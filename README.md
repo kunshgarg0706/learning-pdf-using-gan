@@ -19,3 +19,7 @@ To learn an unknown probability density function of a transformed random variabl
 - NumPy
 - Pandas
 - PyTorch / TensorFlow
+
+## Results
+
+![GAN Learned PDF](results/GAN_Result_102303604.png)
